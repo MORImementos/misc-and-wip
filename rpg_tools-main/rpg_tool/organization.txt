@@ -1,0 +1,9 @@
+characters
+tags
+combat
+weapons
+items
+locations
+abilities
+
+all the main stuff to ensure that it runs as package here
