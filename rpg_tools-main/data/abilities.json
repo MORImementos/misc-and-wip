@@ -1,0 +1,13 @@
+[
+  {
+    "name": "berserk",
+  "cost":  5,
+  "type":  "activatable",
+  "duration":  3,
+  "tags":  [
+    "anger", "self"
+  ],
+  "probability": "None",
+    "signature":  "False"
+  }
+]

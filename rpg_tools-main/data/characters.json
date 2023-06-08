@@ -1,0 +1,11 @@
+[{
+  "name": "Shy Guy",
+  "stats": {"level": 1, "hp": 30, "attack": 1, "defense": 1,
+    "speed": 2, "skill": 1, "move": 6},
+  "abilities": [],
+  "items": [],
+  "skills": {"martial": 1},
+  "tags": "martial",
+  "weakness": "energy"
+}
+]
